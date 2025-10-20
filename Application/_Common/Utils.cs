@@ -62,7 +62,8 @@ namespace Application.Common
             { "310", "Pfizer COVID-19 mRNA" },
             { "311", "Moderna COVID-19 mRNA" },
             { "312", "Moderna COVID-19 mRNA" },
-            { "313", "Novavax COVID-19 subunit" }
+            { "313", "Novavax COVID-19 subunit" },
+            { "334", "Moderna COVID-19 mRNA" }
         }.ToImmutableDictionary();
 
         private static AppSettings _appSettings;
